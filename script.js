@@ -155,3 +155,5 @@ var upperCasedCharacters = [
 ];
 
 //https://www.w3schools.com/jsref/jsref_push.asp
+
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random*/
